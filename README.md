@@ -1,5 +1,6 @@
-<br><br>
-<img height="27" src="https://img.shields.io/badge/Prediction using Unsupervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+# Prediction-Using-Supervised-ML
+<br>
+<img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
 <br>
 
 > Problem Statement:
@@ -15,6 +16,9 @@ represent it visually.<br>
 > Demo:
 <a href="https://youtu.be/Vg_U65zvVNI">Prediction using Unsupervised ML</a>
 
+
+If you have any Queries or Suggestions, feel free to reach out to me!
+
 <br><br>
 <p align="center">
   <b><i>Let's connect! Find me on the web xD</i></b>
@@ -26,12 +30,12 @@ represent it visually.<br>
 <br />
 <hr />
 
-[youtube]: https://www.youtube.com/channel/UCBY1EFXHzR7EG1kaVC73pYA
-[gmail]: mailto:meloidasdragneel12@gmail.com
-[linkedin]: https://www.linkedin.com/in/manish-ghoshal-454ba0205/
-[github]: https://github.com/manishghoshal99
+[youtube]: https://www.youtube.com/channel/UCRqQq1O1e0g-7CfoQzCoFdw
+[gmail]: mailto:achyutkrishna1134@gmail.com
+[linkedin]: https://www.linkedin.com/in/achyut-krishna-sai-adiraju-a36308203/
+[github]: https://github.com/Achyut-Krishna
 
 
-If you have any Queries or Suggestions, feel free to reach out to me! 
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; By Starring Some Of The Repositories!</h3>
+  
+
