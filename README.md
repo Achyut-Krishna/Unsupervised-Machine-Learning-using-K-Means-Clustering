@@ -9,9 +9,9 @@
 represent it visually.<br>
 ⦿ Use R or Python or perform this task<br>
 ⦿ Here is the dataset :
-<a href="https://github.com/manishghoshal99/Unsupervised-Machine-Learning-using-K-Means-Clustering/blob/main/iris.csv">Dataset.csv</a><br><br>
+<a href="https://github.com/Achyut-Krishna/Unsupervised-Machine-Learning-using-K-Means-Clustering/blob/main/iris.csv">Dataset.csv</a><br><br>
 > Solution:
-<a href="https://github.com/manishghoshal99/Unsupervised-Machine-Learning-using-K-Means-Clustering/blob/main/Unsupervised%20Machine%20Learning%20using%20K-Means%20Clustering.ipynb"> Prediction using UnSupervised ML</a>
+<a href="https://colab.research.google.com/github/Achyut-Krishna/Unsupervised-Machine-Learning-using-K-Means-Clustering/blob/main/Unsupervised%20Machine%20Learning%20using%20K-Means%20Clustering.ipynb"> Prediction using UnSupervised ML</a>
 
 > Demo:
 <a href="https://youtu.be/Vg_U65zvVNI">Prediction using Unsupervised ML</a>
